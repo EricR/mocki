@@ -34,7 +34,7 @@ things like this:
       end
 
 Which, combined with the awesomeness that is Sinatra, allows you to make
-an HTTP request to /users and get this back:
+an HTTP request to /users and get this:
 
       {
         status: "ok",
